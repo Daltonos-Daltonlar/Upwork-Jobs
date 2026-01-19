@@ -1,4 +1,0 @@
-Model,R2,MSE,RMSE,MAE,MAPE
-GradientBoostingRegressor,0.9998,0.1562,0.3952,0.0721,0.2666
-RandomForestRegressor,0.9999,0.109,0.3302,0.0054,0.0014
-XGBRegressor,0.9427,51.5608,7.1806,0.5564,1.2948
