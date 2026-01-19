@@ -1,4 +1,0 @@
-Model,R2,MSE,RMSE,MAE,MAPE
-Linear Regression,1.0,0.0,0.0001,0.0,0.0003
-Ridge Regression,1.0,0.0009,0.0292,0.025,0.1652
-RandomForestRegressor,0.9999,0.116,0.3405,0.0057,0.0015
