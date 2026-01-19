@@ -1,0 +1,7 @@
+Model,Sinif,Precision,Recall,F1-Score
+XGBoost,0 (Fixed),1.0,1.0,1.0
+XGBoost,1 (Hourly),1.0,1.0,1.0
+SVC (linear),0 (Fixed),1.0,1.0,1.0
+SVC (linear),1 (Hourly),1.0,1.0,1.0
+KNN,0 (Fixed),1.0,0.9997,0.9998
+KNN,1 (Hourly),0.9998,1.0,0.9999
